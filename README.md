@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** at **Thoughtworks** with over **10 years of experience** in C# and .NET development. I specialize in building robust, scalable applications across the full technology stack - from client-side applications to enterprise-grade backend services.
+I'm a **Full-stack** with over **10 years of experience** in C# and .NET development. I specialize in building robust, scalable applications across the full technology stack - from client-side applications to enterprise-grade backend services.
 
 ### 🎯 What I Do
 
@@ -58,7 +58,7 @@ I'm a **Software Engineer** at **Thoughtworks** with over **10 years of experien
 
 - **Backend Development**: ASP.NET Core, Web APIs, Entity Framework, SignalR
 - **Frontend Development**: WinUI 3, XAML, MVVM Pattern, Modern Windows Apps
-- **DevOps & Cloud**: Kubernetes, Docker, Azure DevOps, CI/CD Pipelines, Buildkite
+- **DevOps & Cloud**: Kubernetes, Docker, Azure DevOps, CI/CD Pipelines
 - **Database**: SQL Server, Entity Framework Core, Database Design
 - **Architecture**: Microservices, REST APIs, Event-Driven Architecture
 - **Legacy Modernization**: .NET Framework to .NET Core/.NET 6+, Monolith to Microservices, Database Migration, Legacy System Migration
