@@ -30,11 +30,8 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-
-[**English**](#about-me) | [简体中文](#关于我)
-
-</div>
+<details name="profile-language">
+<summary align="center"><strong>English</strong></summary>
 
 ## 👨‍💻 About Me
 
@@ -109,13 +106,10 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 </div>
 
----
+</details>
 
-<div align="center">
-
-[English](#about-me) | [**简体中文**](#关于我)
-
-</div>
+<details name="profile-language">
+<summary align="center"><strong>简体中文</strong></summary>
 
 ## 👨‍💻 关于我
 
@@ -186,6 +180,4 @@ When I'm not coding, you'll find me exploring new technologies, contributing to 
 
 <div align="center">
 
-[English](#about-me) | [简体中文](#关于我)
-
-</div>
+</details>
