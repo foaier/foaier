@@ -30,6 +30,12 @@ Here are some ideas to get you started:
 
 ---
 
+<div align="center">
+
+[**English**](README.md) | [简体中文](README.zh-CN.md)
+
+</div>
+
 ## 👨‍💻 About Me
 
 I'm a **Full-stack** with over **10 years of experience** in C# and .NET development. I specialize in building robust, scalable applications across the full technology stack - from client-side applications to enterprise-grade backend services.
